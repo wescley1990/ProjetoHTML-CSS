@@ -3,7 +3,6 @@ Criando um site de uma barbearia utilizando todos os metodos do HTML e do CSS.
 
 
 
-Funcionalidades
 Oferecendo as seguintes funcionalidades:
 
 
