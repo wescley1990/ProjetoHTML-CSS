@@ -1,4 +1,4 @@
-##PROJETO SITE - BARBEARIA - CSS/HTML
+*PROJETO SITE - BARBEARIA - CSS/HTML
 #Criando um site de uma barbearia utilizando todos os metodos do HTML e do CSS.
 
 #Funcionalidades
